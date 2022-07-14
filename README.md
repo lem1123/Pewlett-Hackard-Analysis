@@ -58,9 +58,9 @@ Based on the queries described above, our findings indicate that there are only 
 
 By finessing our results from the retirement_titles table to exclude duplication, we determined that while the number of employees is still large, it did not account for the fact that an employee could have held multiple titles while employed at Pewlett-Hackard. As shown in the screenshots below, When we run the unique_titles query, a total of 72,458 results are found compared to the retirement_titles query which had almost twice as much at 133,776.  This indicates that while many have stayed with the company long enough to be eligible for retirement, almost half have already left the company.  
 
-![unique_titles_results.png](unique_titles_results)
+![unique_titles_results.png](unique_titles_results.png)
 
-![retirement_titles_results](retirement_titles_results)
+![retirement_titles_results](retirement_titles_results.png)
 
 * Results Based on Mentorship Eligibility 
 
