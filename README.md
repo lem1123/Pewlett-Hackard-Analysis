@@ -52,7 +52,7 @@ ORDER BY emp_no;
 
 * Results Based on Retirement and Retiring Titles
 
-Based on the queries described above, our findings indicate that there are only seven types of positions in this case which would need to be filled.  However, that is a small number when compared to the 72,458 titles which would need to be filled as a result of the pending "Silver Tsunami".  The titles of Senior Engineer and Senior Staff have the most employees retiring with 25,916 and 24,926 while there are only two employees that hold the title of Manager who are retiring.  
+Based on the queries described above, our findings indicate that there are only seven types of positions in this case which would need to be filled.  However, that is a small number of specific roles when compared to the 72,458 titles currently held which would need to be filled as a result of the pending "Silver Tsunami".  The titles of Senior Engineer and Senior Staff have the most employees retiring with 25,916 and 24,926 while there are only two employees that hold the title of Manager who are retiring.  
 
 * Results Based on Unique Titles
 
@@ -72,9 +72,14 @@ As determined by our explanation of the code for finding mentorship_eligibilty, 
 
 * Impact on Roles
 
-  As a result of our findings in the analysis, it can be determined that there are 72,458 titles or positions which will need to be filled.  
+ As a result of our findings in the analysis, it can be determined that there are 72,458 titles or positions which will need to be filled as a result of the pending "Silver Tsunami." 
   
 * Future of Pewlett-Hackard 
 
+Based on the analysis, it appears that while there are plenty of retirement-ready employees that could possibly mentor the next generation of Pewlett-Hackard, there are not enough qualified to do so based on the parameters set forth.    
+
 * Additional Queries for Analysis 
+
+In order to better understand the make up of those determined eligible for the retirement program, we could add in specific departments to the query.  This would allow for the further evaluation of the mentorship program based upon a certain role within a department.  Additionally, you could use the data already provided to poll those eligible to be mentors   
+
 
